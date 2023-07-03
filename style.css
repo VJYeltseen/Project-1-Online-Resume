@@ -12,6 +12,9 @@ h3{
 p{
     color:darkblue;
 }
+.text{
+    text-align: left;
+}
 ul{
     color:darkblue;
     margin-left: 0px;
