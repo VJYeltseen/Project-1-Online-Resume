@@ -11,17 +11,20 @@ h3{
 }
 p{
     color:darkblue;
+    font-weight: bolder;
 }
 .text{
     text-align: left;
 }
 ul{
     color:darkblue;
-    margin-left: 0px;
+    margin-top: 5px;
+    font-weight:bold;
 }
 ol{
     color:dodgerblue;
-    margin-left: 0px;
+    margin-left: 5px;
+    font-weight: bolder;
 }
 .red-text{
     color:red;
