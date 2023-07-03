@@ -1,6 +1,6 @@
 *{
-    text-align: center;
     background-color: aquamarine;
+    text-align: center;
 }
 h1{
     color:blue;
@@ -24,6 +24,6 @@ ol{
     color:red;
 }
 #main{
-    color:springgreen;
+    color:yellow;
     text-decoration-line: underline;
 }
