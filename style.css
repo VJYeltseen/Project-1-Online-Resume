@@ -7,9 +7,12 @@ h3{
 p{
     color:darkblue;
 }
-li{
+ul{
     color:darkblue;
 }
-footer{
-    color:gold;
+ol{
+    color:dodgerblue
+}
+.red-text{
+    color:red;
 }
