@@ -1,21 +1,29 @@
+*{
+    text-align: center;
+    background-color: aquamarine;
+}
 h1{
     color:blue;
 }
 h3{
     color:blueviolet;
+    text-decoration-line: underline;
 }
 p{
     color:darkblue;
 }
 ul{
     color:darkblue;
+    margin-left: 0px;
 }
 ol{
-    color:dodgerblue
+    color:dodgerblue;
+    margin-left: 0px;
 }
 .red-text{
     color:red;
 }
 #main{
     color:springgreen;
+    text-decoration-line: underline;
 }
