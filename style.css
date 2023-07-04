@@ -4,10 +4,12 @@ html{
 }
 h1{
     color:blue;
+    background-color:#F6FA70;
 }
 h3{
     color:blueviolet;
     text-decoration-line: underline;
+    background-color: #FFE79B;
 }
 p{
     color:darkblue;
