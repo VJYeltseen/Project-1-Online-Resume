@@ -3,7 +3,6 @@ html{
     text-align: center;
 }
 h1{
-    color:blue;
     background-color:#F6FA70;
     border: 3px solid black;
     border-style: dashed;
@@ -13,10 +12,10 @@ h1{
 }
 h3{
     color:blueviolet;
-    text-decoration-line: underline;
     background-color: #FFE79B;
     margin-left: 200px;
     margin-right: 200px;
+    border: 1px solid black;
 }
 p{
     color:darkblue;
@@ -40,7 +39,6 @@ ol{
 }
 #main{
     color:red;
-    text-decoration-line: underline;
 }
 img{
     border: 5px solid blue;
