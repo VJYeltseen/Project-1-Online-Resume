@@ -5,11 +5,18 @@ html{
 h1{
     color:blue;
     background-color:#F6FA70;
+    border: 3px solid black;
+    border-style: dashed;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 3px;
 }
 h3{
     color:blueviolet;
     text-decoration-line: underline;
     background-color: #FFE79B;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 p{
     color:darkblue;
@@ -34,4 +41,11 @@ ol{
 #main{
     color:red;
     text-decoration-line: underline;
+}
+img{
+    border: 5px solid blue;
+    border-style: double;
+    padding: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
