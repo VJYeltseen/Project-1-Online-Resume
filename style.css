@@ -6,8 +6,7 @@ h1{
     background-color:aqua;
     border: 0px solid black;
     border-style: dashed;
-    margin-left: 500px;
-    margin-right: 500px;
+    text-align: center;
     padding: 3px;
     color:darkblue;
 }
